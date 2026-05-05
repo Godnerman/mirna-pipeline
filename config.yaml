@@ -1,0 +1,6 @@
+samples: "samples.csv"
+mirbase_mature_hsa: "references/mature_hsa.fa"
+mirbase_hairpin_hsa: "references/hairpin_hsa.fa"
+
+min_length:  17
+min_quality: 20
